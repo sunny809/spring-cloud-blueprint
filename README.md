@@ -1,8 +1,9 @@
 # spring-cloud-blueprint
 
-A project trying to demo to use the component from spring-cloud. 
+## Background
+This is a blueprint project trying to demo to use the basic component from spring-cloud. 
 
-including:
+It should including:
 
 1. Configuration Server
 2. Service Register and Discovery
